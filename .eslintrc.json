@@ -1,0 +1,15 @@
+{
+  "$schema": "https://github.com/SchemaStore/schemastore/raw/refs/heads/master/src/schemas/json/eslintrc.json",
+  "extends": [
+    "next/core-web-vitals",
+    "next/typescript"
+  ],
+  "ignorePatterns": [
+    "node_modules/",
+    ".next/",
+    "out/",
+    "public/",
+    "*.config.js",
+    "*.config.ts"
+  ]
+}
