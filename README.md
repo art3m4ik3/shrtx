@@ -31,7 +31,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/shrtx.git
+   git clone https://github.com/art3m4ik3/shrtx.git
    cd shrtx
    ```
 
